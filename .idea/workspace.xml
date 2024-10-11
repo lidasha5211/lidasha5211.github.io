@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f421e8f7-cf24-4efb-8f71-21b1f723ba15" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/_navbar.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/RuoYi-Vue-Plus/idea/jdk-version.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/RuoYi-Vue-Plus/idea/jdk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/RuoYi-Vue-Plus/idea/jk-dsrw-kg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/RuoYi-Vue-Plus/idea/mysql.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/RuoYi-Vue-Plus/idea/profiles.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/RuoYi-Vue-Plus/idea/services.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/RuoYi-Vue-Plus/idea/start-server.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/RuoYi-Vue-Plus/mysql/create-conn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/RuoYi-Vue-Plus/mysql/ctreat-db-mysql.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/RuoYi-Vue-Plus/mysql/db-sql.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/RuoYi-Vue-Plus/mysql/redis.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/RuoYi-Vue-Plus/ruoyi-admin/login-page-off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/RuoYi-Vue-Plus/ruoyi-admin/login-page-on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/RuoYi-Vue-Plus/ruoyi-admin/login-page-set.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/RuoYi-Vue-Plus/ruoyi-admin/ruoyi-admin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/md/RuoYi-Vue-Plus/init/2024-08-30-RuoYi-Vue-Plus5.X项目初始化.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/md/RuoYi-Vue-Plus/init/2024-09-02-RuoYi-Vue-Plus5.X数据库初始化.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/md/RuoYi-Vue-Plus/init/2024-09-03-RuoYi-Vue-Plus5.X前端项目启动.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/md/RuoYi-Vue-Plus/init/2024-09-03-RuoYi-Vue-Plus5.X项目启动.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/md/RuoYi-Vue-Plus/web/2024-09-03-5.X-Web服务入口登录.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/md/RuoYi-Vue-Plus/web/2024-09-03-5.X-Web服务入口结构.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_coverpage.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_coverpage.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sidebar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/1-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/100001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/101010101.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/111.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/1240-20200519224356833.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/1240-20200519224407025.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/1240-20200519224447043.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/1240-20200519224457456.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/1240-20200519224628523.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/1240-20200519224642517.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/1240-20200519224713290.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/1240-20200519224737202.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/1240-20200519224811973.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/1240-20200519224845418.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/1240-20200519224901819.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/1240-20200519224930442.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/1240-20200519224948946.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/1240-20200519225019180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/1240-20200519225026143.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/1240-20200519225050007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/1240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/2-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/2-02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/2-03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/2-04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/2-05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/2-06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/2-07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/Bytecode封面.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/TTEfNH.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/WechatIMG22.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/WechatIMGddd22.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/asm-doc/1.2.3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/asm-doc/2.2.4-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/asm-doc/2.2.4-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/asm-doc/2.2.4-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/asm-doc/3.1-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/asm-doc/3.1-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/asm-doc/3.1-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/asm-doc/3.1-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/asm-doc/3.1-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/asm-doc/6.2-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/asm-doc/8.1-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/book.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/dddd.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/icon_256x256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/icon_512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/itstack-demo-design-1-01-20200521224916849.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/itstack-demo-design-1-02-20200521225009063.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/itstack-demo-design-2-01-20200526231804926.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/itstack-demo-design-2-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/itstack-demo-design-2-02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/itstack-demo-design-2-03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/itstack-demo-design-2-04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/itstack-demo-design-2-05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/itstack-demo-design-2-06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/itstack-demo-design-2-07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/itstack-demo-design-2-08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/itstack-demo-design-3-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/itstack-demo-design-3-02-20200526232143215.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/itstack-demo-design-3-02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/itstack-demo-design-3-03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/itstack-demo-design-6-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/itstack-demo-design-6-03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/itstack-demo-design-6-04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/rT8i4s.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/zd-05-29-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/zd-05-29-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/zd05-29-format.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/字节码编程.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/md/Index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/md/idea-plugin/2021-08-27-技术调研IDEA插件怎么开发.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/md/idea-plugin/2021-08-29-技术实践IDEA插件怎么发布.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/md/idea-plugin/2021-10-18-第一节：两种方式创建插件工程.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/md/idea-plugin/2021-11-03-第二节：配置窗体和侧边栏窗体的使用.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/md/idea-plugin/2021-11-18-第三节：开发工具栏和Tab页，展示股票行情和K线.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/md/idea-plugin/2021-11-24-第四节：扩展创建工程向导步骤开发DDD脚手架.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/md/idea-plugin/2021-12-08-第五节：IDEA工程右键菜单自动生成ORM代码.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/md/idea-plugin/2021-12-14-第六节：以织入代码的方式自动处理vo2dto.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/md/idea-plugin/2021-12-22-第7节：通过Inspection机制为静态代码安全审查.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/md/idea-plugin/2022-01-17-第8节：在插件中引入探针基于字节码插桩获取执行SQL.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/md/idea-plugin/2022-01-22-第9节：加载文件生成链表单词树输入属性时英文校准提醒.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/md/idea-plugin/2022-01-23-第10节：基于字节码插桩采集数据实现代码交付质量自动分析.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="$PROJECT_DIR$/../../java_utils/apache-maven-3.9.6" />
+        <option name="localRepository" value="$PROJECT_DIR$/../../java_utils/repository" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="useMavenConfig" value="false" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../java_utils/apache-maven-3.9.6/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2lN20ezin0ypNslyyiCLudBD1vv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/chenyan/Java/java_project/docsify-note/docs/md/RuoYi-Vue-Plus/web&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15421003&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/md/RuoYi-Vue-Plus/web" />
+      <recent name="$PROJECT_DIR$/docs/md/RuoYi-Vue-Plus" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/assets/img/RuoYi-Vue-Plus" />
+      <recent name="$PROJECT_DIR$/docs/md/RuoYi-Vue-Plus/init" />
+      <recent name="$PROJECT_DIR$/docs/assets/img/mysql" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.300" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.300" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
